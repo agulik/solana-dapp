@@ -1,11 +1,11 @@
-[programs.localnet]
-solana_app = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+[programs.devnet]
+solana_app = "9sLG4qKC4XPjLcQ56kiJk6a2CrHnYaLYKUHBDuRf2HFz"
 
 [registry]
 url = "https://anchor.projectserum.com"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "/Users/andrewgulik/.config/solana/id.json"
 
 [scripts]
